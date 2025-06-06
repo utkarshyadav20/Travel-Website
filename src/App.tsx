@@ -170,10 +170,10 @@ Informe.</p>
       </section>
 
       {/* Navigation Dots */}
-      <div className="fixed right-6 top-1/2 transform -translate-y-1/2 flex flex-col gap-2">
+      {/* <div className="fixed right-6 top-1/2 transform -translate-y-1/2 flex flex-col gap-2">
         <button className="w-3 h-3 rounded-full bg-gray-300"></button>
         <button className="w-3 h-3 rounded-full bg-yellow-400"></button>
-      </div>
+      </div> */}
     </div>
   );
 }
