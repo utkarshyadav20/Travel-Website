@@ -1,6 +1,6 @@
 import axios from 'axios';
 
-const API_URL = 'http://localhost:3000/api';
+const API_URL = 'https://travel-website-zru2.onrender.com/api';
 
 export const fetchDestinations = async () => {
   const response = await axios.get(`${API_URL}/destinations`);
