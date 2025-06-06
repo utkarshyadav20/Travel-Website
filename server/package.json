@@ -1,13 +1,9 @@
 {
-  "name": "travel website",
+  "name": "server",
   "private": true,
   "version": "0.0.0",
   "type": "module",
   "scripts": {
-    "dev": "vite",
-    "build": "vite build",
-    "lint": "eslint .",
-    "preview": "vite preview",
     "server": "node server/index.js"
   },
   "dependencies": {
